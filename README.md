@@ -6,7 +6,7 @@ The YaleNeuroConnect dataset is available in two online locations:
 
 To access the NIMH Data Archive system create an account at https://nda.nih.gov/. To learn more about the requirements for requesting access, visit https://nda.nih.gov/nda/access-data-info and https://nda.nih.gov/nda/tutorials/electronic-data-access-request. 
 
-   In order to download data, you need to:
+   In order to download data, please:
 
       1.1. Visit the NDA Query Tool
 
@@ -16,7 +16,7 @@ To access the NIMH Data Archive system create an account at https://nda.nih.gov/
    
          1.2.2 Enter "id:3276" in the text search field.
    
-      1.3. Select your Collection, add the data to your 'Workspace', then your 'Filter Cart'.
+      1.3. Select your Collection, add the data to your "Workspace", then your "Filter Cart".
 
       1.4. Once your filter cart is done updating, click "Create Data Package/Add Data to Study"
 
