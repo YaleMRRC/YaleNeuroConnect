@@ -4,7 +4,7 @@ The YaleNeuroConnect dataset is available in two online locations:
 
 1) The behavioral measures, clinical measures, structural MRI, and raw fMRI data (n=382) are available on the NIMH Data Archive (NDA) server: https://nda.nih.gov/edit_collection.html?id=3276.
 
-   To access the NIMH Data Archive system create an account at https://nda.nih.gov/. To learn more about the requirements for requesting access, visit https://nda.nih.gov/nda/access-data-info and https://nda.nih.gov/nda/tutorials/electronic-data-access-request. To download the data from the NDA website please install the NDA Download Manager as described at https://nda.nih.gov/nda/nda-tools.
+   To access the NDA system create an account at https://nda.nih.gov/. To learn more about the requirements for requesting access, visit https://nda.nih.gov/nda/access-data-info and https://nda.nih.gov/nda/tutorials/electronic-data-access-request. To download the data from the NDA website please install the NDA Download Manager as described at https://nda.nih.gov/nda/nda-tools.
 
    In order to download data, please:
 
