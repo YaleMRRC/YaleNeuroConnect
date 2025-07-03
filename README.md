@@ -28,7 +28,7 @@ The YaleNeuroConnect dataset is available in two online locations:
       1.7. Once your package is ready to be downloaded, open the NDA Download Manager Tool and download your data.
 
 
-   2) The functional connectomes and mean ROIs obtained by segmenting the brain into nodes using the predefined function-based Shen268 atlas and Shen368 atlas (n=302): https://yaleedu-my.sharepoint.com/:f:/g/personal/todd_constable_yale_edu/En99p1wBK6xKj3Zuh2T48_cBwaRo9fpFdppNf7kS9Ixtlw?e=cLjTcJ
+2) The functional connectomes and mean ROIs obtained by segmenting the brain into nodes using the predefined function-based Shen268 atlas and Shen368 atlas (n=302): https://yaleedu-my.sharepoint.com/:f:/g/personal/todd_constable_yale_edu/En99p1wBK6xKj3Zuh2T48_cBwaRo9fpFdppNf7kS9Ixtlw?e=cLjTcJ
 
    The fMRI data processing pipeline used by the YaleNeuroConnect study is publicly available, along with an example demonstrating its application on a sample subject:          https://github.com/YaleMRRC/YaleNeuroConnect_ProcessingPipeline.
 
