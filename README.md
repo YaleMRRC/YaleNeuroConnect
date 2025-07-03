@@ -18,7 +18,7 @@ To access the NIMH Data Archive system create an account at https://nda.nih.gov/
    
       1.3. Select your Collection, add the data to your "Workspace", then your "Filter Cart."
 
-      1.4. Once your filter cart is done updating, click "Create Data Package/Add Data to Study."
+      1.4. Once your filter cart is done updating, click "Create Data Package/ Add Data to Study."
 
       1.5. You will then be brought to the Data Packaging page. Click the orange "Create Data Package" button and follow the prompts to create your data package.
 
