@@ -8,24 +8,24 @@ The YaleNeuroConnect dataset is available in two online locations:
 
    In order to download data, please:
 
-      1.1. Visit the NDA Query Tool.
+         1.1. Visit the NDA Query Tool.
 
-      1.2. Find the data in the NDA Query Tool.
+         1.2. Find the data in the NDA Query Tool.
 
-         1.2.1 Visit Data from Labs.
+            1.2.1 Visit Data from Labs.
    
-         1.2.2 Enter "id:3276" in the text search field.
+            1.2.2 Enter "id:3276" in the text search field.
    
-      1.3. Select your Collection, add the data to your "Workspace", then your "Filter Cart."
+         1.3. Select your Collection, add the data to your "Workspace", then your "Filter Cart."
 
-      1.4. Once your filter cart is done updating, click "Create Data Package/ Add Data to Study."
+         1.4. Once your filter cart is done updating, click "Create Data Package/ Add Data to Study."
 
-      1.5. You will then be brought to the Data Packaging page. Click the orange "Create Data Package" button and follow the prompts to create your data package.
+         1.5. You will then be brought to the Data Packaging page. Click the orange "Create Data Package" button and follow the prompts to create your data package.
 
-      1.6. Wait for the package to be created. You can check the status of your package via your Data Packages dashboard.
-      Please note: This may take a few hours. 
+         1.6. Wait for the package to be created. You can check the status of your package via your Data Packages dashboard.
+         Please note: This may take a few hours. 
    
-      1.7. Once your package is ready to be downloaded, open the NDA Download Manager Tool and download your data.
+         1.7. Once your package is ready to be downloaded, open the NDA Download Manager Tool and download your data.
 
 
 2) The functional connectomes and mean ROIs obtained by segmenting the brain into nodes using the predefined function-based Shen268 atlas and Shen368 atlas (n=302): https://yaleedu-my.sharepoint.com/:f:/g/personal/todd_constable_yale_edu/En99p1wBK6xKj3Zuh2T48_cBwaRo9fpFdppNf7kS9Ixtlw?e=cLjTcJ
