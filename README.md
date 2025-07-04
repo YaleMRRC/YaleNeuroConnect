@@ -27,7 +27,7 @@ The YaleNeuroConnect dataset is available in two online locations:
    
          1.7. Once your package is ready to be downloaded, open the NDA Download Manager Tool and download your data.
 
-   Please note that the data was formatted to comply with NDA standards. 
+   Please note that the data was formatted to comply with NDA standards. Subject IDs may appear in multiple rows where different subsets of data are populated. When this occurs, all relevant entries for the subject should be considered collectively, as they represent different aspects of the same visit or assessment."
 
 (** For journal reviewers only, the NDA files are available under https://yaleedu-my.sharepoint.com/:f:/g/personal/anja_samardzija_yale_edu/Et42uaGqJlBKuiaYfQ5HaW4BaS5-awD6ZZJzyGgtAwPXBw?e=JnKASs with the password included in the manuscript submission ** this text will be removed once the manuscript is published). 
 
