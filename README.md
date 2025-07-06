@@ -29,7 +29,7 @@ The YaleNeuroConnect dataset is available in two online locations:
 
    Please note that the data was formatted to comply with NDA standards. Subject IDs may appear in multiple rows, often due to NDA formatting requirements. In most cases, these rows are duplicates and only the first occurrence should be considered. However, in a few instances, different rows for the same subject contain complementary data. In such cases, each row should be reviewed, as together they represent the full information for that subject.
 
-(** For journal reviewers only, the NDA files are available under https://yaleedu-my.sharepoint.com/:f:/g/personal/anja_samardzija_yale_edu/Et42uaGqJlBKuiaYfQ5HaW4BaS5-awD6ZZJzyGgtAwPXBw?e=JnKASs with the password included in the manuscript submission ** this text will be removed once the manuscript is published). 
+(** For journal reviewers only, the NDA files are available under https://yaleedu-my.sharepoint.com/:f:/g/personal/anja_samardzija_yale_edu/EhIN0LWzn6NMr7ZWJRqwHvQB6E4Grl1J2bsji7eQjL8WhQ?e=Ee46pG ** with the password included in the manuscript submission ** this text will be removed once the manuscript is published). 
 
 
 2) The functional connectomes and mean ROIs obtained by segmenting the brain into nodes using the predefined function-based Shen268 atlas and Shen368 atlas (n=302): https://yaleedu-my.sharepoint.com/:f:/g/personal/todd_constable_yale_edu/En99p1wBK6xKj3Zuh2T48_cBwaRo9fpFdppNf7kS9Ixtlw
