@@ -34,13 +34,13 @@ The YaleNeuroConnect dataset is available in two online locations:
 
 2) On a OneDrive folder: https://yaleedu-my.sharepoint.com/:f:/g/personal/todd_constable_yale_edu/En99p1wBK6xKj3Zuh2T48_cBZe-JXOnaNN8W41U-qySZIw?e=z52dtS, the following files are available:
    
-         -The functional connectomes and mean ROIs obtained by segmenting the brain into nodes using the predefined function-based Shen268 atlas and Shen368 atlas (n=302)
+      -The functional connectomes and mean ROIs obtained by segmenting the brain into nodes using the predefined function-based Shen268 atlas and Shen368 atlas (n=302)
+
+      -The demographic information across 15 self-report items (n=302, n=403)
    
-         -The demographic information across 15 self-report items (n=302, n=403)
+      -The diagnostic category breakdown (n=302)
    
-         -The diagnostic category breakdown (n=302)
-   
-         -The data of a sample subject, demonstrating the application of the fMRI data processing pipeline (https://github.com/YaleMRRC/YaleNeuroConnect_ProcessingPipeline).
+      -The data of a sample subject, demonstrating the application of the fMRI data processing pipeline (https://github.com/YaleMRRC/YaleNeuroConnect_ProcessingPipeline).
 
 
 
