@@ -32,7 +32,7 @@ The YaleNeuroConnect dataset is available in two online locations:
 (** For journal reviewers only, the NDA files are available under https://yaleedu-my.sharepoint.com/:f:/g/personal/anja_samardzija_yale_edu/EhIN0LWzn6NMr7ZWJRqwHvQB6E4Grl1J2bsji7eQjL8WhQ?e=Ee46pG ** with the password included in the manuscript submission ** this text will be removed once the manuscript is published). 
 
 
-2) The functional connectomes and mean ROIs obtained by segmenting the brain into nodes using the predefined function-based Shen268 atlas and Shen368 atlas (n=302): https://yaleedu-my.sharepoint.com/:f:/g/personal/todd_constable_yale_edu/En99p1wBK6xKj3Zuh2T48_cBZe-JXOnaNN8W41U-qySZIw?e=z52dtS. The demographic information for n=302 and n=403 is available at the same link, as well as the diagnostic category breakdown for n=302. 
+2) The functional connectomes and mean ROIs obtained by segmenting the brain into nodes using the predefined function-based Shen268 atlas and Shen368 atlas (n=302), the dempographic information (n=302, n=403), and the diagnostic category breakdown (n=302) are available on our OneDrive folder: https://yaleedu-my.sharepoint.com/:f:/g/personal/todd_constable_yale_edu/En99p1wBK6xKj3Zuh2T48_cBZe-JXOnaNN8W41U-qySZIw?e=z52dtS.
 
 
 
