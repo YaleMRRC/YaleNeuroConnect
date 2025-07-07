@@ -32,11 +32,11 @@ The YaleNeuroConnect dataset is available in two online locations:
 (** For journal reviewers only, the NDA files are available under https://yaleedu-my.sharepoint.com/:f:/g/personal/anja_samardzija_yale_edu/EhIN0LWzn6NMr7ZWJRqwHvQB6E4Grl1J2bsji7eQjL8WhQ?e=Ee46pG ** with the password included in the manuscript submission ** this text will be removed once the manuscript is published). 
 
 
-2) The functional connectomes and mean ROIs obtained by segmenting the brain into nodes using the predefined function-based Shen268 atlas and Shen368 atlas (n=302), the demographic information across 15 self-report items (n=302, n=403), and the diagnostic category breakdown (n=302) are available on a OneDrive folder: https://yaleedu-my.sharepoint.com/:f:/g/personal/todd_constable_yale_edu/En99p1wBK6xKj3Zuh2T48_cBZe-JXOnaNN8W41U-qySZIw?e=z52dtS.
-
-
-
-The fMRI data processing pipeline used by the YaleNeuroConnect study is publicly available, along with an example demonstrating its application on a sample subject:          https://github.com/YaleMRRC/YaleNeuroConnect_ProcessingPipeline.
+2) On a OneDrive folder: https://yaleedu-my.sharepoint.com/:f:/g/personal/todd_constable_yale_edu/En99p1wBK6xKj3Zuh2T48_cBZe-JXOnaNN8W41U-qySZIw?e=z52dtS, the following files are available:
+   -The functional connectomes and mean ROIs obtained by segmenting the brain into nodes using the predefined function-based Shen268 atlas and Shen368 atlas (n=302)
+   -The demographic information across 15 self-report items (n=302, n=403)
+   -The diagnostic category breakdown (n=302)
+   -The data of a sample subject, demonstrating the application of the fMRI data processing pipeline (https://github.com/YaleMRRC/YaleNeuroConnect_ProcessingPipeline).
 
 
 
