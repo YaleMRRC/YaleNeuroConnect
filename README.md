@@ -42,6 +42,13 @@ The YaleNeuroConnect dataset is available in two online locations:
       -The data of a sample subject, demonstrating the application of the fMRI data processing pipeline (https://github.com/YaleMRRC/YaleNeuroConnect_ProcessingPipeline).
 
 
+
+
+
+
+
+
+
 Data Use Agreement: 
 Access to data on the NIMH website requires an application process, as described above. The YaleNeuroConnect OneDrive site is openly accessible and does not require authorization or password protection. Please cite the manuscript (manuscript information to be added once the manuscript is published) if publishing any studies using any aspect of the shared dataset. 
 
