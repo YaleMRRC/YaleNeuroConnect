@@ -43,6 +43,12 @@ The YaleNeuroConnect dataset is available in two online locations:
 
 
 
+Access to data on the NIMH website requires an application process, as outlined on the YaleNeuroConnect GitHub page. The YaleNeuroConnect OneDrive site is openly accessible and does not require authorization or password protection. Please cite the manuscript (manuscript information to be added once the manuscript is published) if publishing any studies using any aspect of the shared dataset. 
+
+
+
+
+
 
 
 
