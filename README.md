@@ -66,6 +66,8 @@ If I am granted access to the database:
 6.	I have requested access to YaleNeuroConnect restricted data for the sole purpose of lawful use in scientific research, and I will use my privilege of access, if it is granted, for this purpose and no other.
 7.	This agreement may be terminated by either party at any time, but my obligations with respect to YaleNeuroConnect data shall continue after termination. 
 8.	I will cite the YaleNeuroConnect manuscript (manuscript information to be added once the manuscript is published) if I publish a study using the dataset. 
+
+
 Adapted from PhysioNet Credentialed Health Data Use Agreement 1.5.0. (https://physionet.org/content/mimiciii/view-dua/1.4/) 
 
 
