@@ -49,8 +49,22 @@ The YaleNeuroConnect dataset is available in two online locations:
 
 
 
+
+Access to data on the NIMH website requires an application process, as described above. The YaleNeuroConnect OneDrive site is openly accessible and does not require authorization or password protection.
+
 Data Use Agreement: 
-Access to data on the NIMH website requires an application process, as described above. The YaleNeuroConnect OneDrive site is openly accessible and does not require authorization or password protection. Please cite the manuscript (manuscript information to be added once the manuscript is published) if publishing any studies using any aspect of the shared dataset. 
+
+If I am granted access to the database:
+1.	I will not attempt to identify any individual referenced in YaleNeuroConnect restricted data.
+2.	I will exercise all reasonable and prudent care to avoid disclosure of the identity of any individual referenced in YaleNeuroConnect restricted data in any publication or other communication.
+3.	I will not share access to YaleNeuroConnect restricted data with anyone else.
+4.	I will exercise all reasonable and prudent care to maintain the physical and electronic security of YaleNeuroConnect restricted data.
+5.	If I find information within YaleNeuroConnect restricted data that I believe might permit identification of any individual or institution, I will report the location of this information promptly by email to todd.constable@yale.edu, citing the location of the specific information in question.
+6.	I have requested access to YaleNeuroConnect restricted data for the sole purpose of lawful use in scientific research, and I will use my privilege of access, if it is granted, for this purpose and no other.
+7.	This agreement may be terminated by either party at any time, but my obligations with respect to YaleNeuroConnect data shall continue after termination. 
+8.	I will cite the YaleNeuroConnect manuscript (manuscript information to be added once the manuscript is published) if I publish a study using the dataset. 
+Adapted from PhysioNet Credentialed Health Data Use Agreement 1.5.0. (https://physionet.org/content/mimiciii/view-dua/1.4/) 
+![image](https://github.com/user-attachments/assets/61ddb2e8-ade8-4e95-8b5a-614414a3f88c)
 
 
 
