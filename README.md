@@ -50,9 +50,9 @@ Once access is permitted, download the data following these instructions. Please
  
   1.2. Find the data in the NDA Query Tool.
  
-     1.2.1 Visit Data from Labs.
+   1.2.1 Visit Data from Labs.
  
-     1.2.2 Enter "id:3276" in the text search field.
+   1.2.2 Enter "id:3276" in the text search field.
  
   1.3. Select your Collection, add the data to your "Workspace", then your "Filter Cart."
  
