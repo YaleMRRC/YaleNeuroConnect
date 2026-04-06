@@ -1,11 +1,9 @@
 
 The YaleNeuroConnect dataset is available in two online locations: 
 
-The dataset is available through two repositories: the open-source data archive OpenNeuro website (doi:10.18112/openneuro.ds007286.v1.0.3) and the NIMH Data Archive website (https://nda.nih.gov/edit_collection.html?id=3276). In addition, the processing pipeline used to generate the functional connectivity matrices and mean time courses are included on the YaleNeuroConnect GitHub page (https://github.com/YaleMRRC/YaleNeuroConnect). 
+The dataset is available through two repositories: the open-source data archive OpenNeuro website ](https://openneuro.org/datasets/ds007286/versions/1.0.3) and the NIMH Data Archive website (https://nda.nih.gov/edit_collection.html?id=3276). In addition, the processing pipeline used to generate the functional connectivity matrices and mean time courses are included on the YaleNeuroConnect GitHub page (https://github.com/YaleMRRC/YaleNeuroConnect). 
 
 The data can be freely accessed via the OpenNeuro website. 
-
-Access through the NIMH website requires an application, as outlined in the data usage section below, as well as on the YaleNeuroConnect GitHub page. 
 
 1.	OpenNeuro website
 -	Structural MRI (under each participant’s id -> ses-01 -> anat)
@@ -27,6 +25,12 @@ Access through the NIMH website requires an application, as outlined in the data
 
 *: the accompanying json files describe the files’ columns/variables. 
 
+
+
+
+
+Access through the NIMH website requires an application, as outlined in the data usage section below.
+
 2.	NIMH website (https://nda.nih.gov/edit_collection.html?id=3276): 
 -	Structural MRI 
 -	Functional MRI 
@@ -34,7 +38,6 @@ Access through the NIMH website requires an application, as outlined in the data
 -	Clinical measures
 
 Data Usage: 
-  Usage Notes:
 
 Raw neuroimaging data, behavioral and clinical scores, functional connectivity matrices, mean functional time courses, diagnostic categories, and quality assurance metrics are freely available for download from the OpenNeuro website. 
 
