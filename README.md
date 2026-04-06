@@ -1,7 +1,8 @@
 
 The YaleNeuroConnect dataset is available in two online locations: 
 
-The dataset is available through two repositories: the open-source data archive OpenNeuro website ](https://openneuro.org/datasets/ds007286/versions/1.0.3) and the NIMH Data Archive website (https://nda.nih.gov/edit_collection.html?id=3276). In addition, the processing pipeline used to generate the functional connectivity matrices and mean time courses are included on the YaleNeuroConnect GitHub page (https://github.com/YaleMRRC/YaleNeuroConnect). 
+The dataset is available through two repositories: the open-source data archive OpenNeuro website
+(https://openneuro.org/datasets/ds007286/versions/1.0.3) and the NIMH Data Archive website (https://nda.nih.gov/edit_collection.html?id=3276). In addition, the processing pipeline used to generate the functional connectivity matrices and mean time courses are included on the YaleNeuroConnect GitHub page (https://github.com/YaleMRRC/YaleNeuroConnect). 
 
 The data can be freely accessed via the OpenNeuro website. 
 
